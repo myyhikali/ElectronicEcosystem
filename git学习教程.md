@@ -9,7 +9,7 @@ Git 是由 Linux 之父 Linus Tovalds 为了更好地管理linux内核开发而�
 
     命令：ssh-keygen -t rsa -C 31601136@stu.zucc.edu.cn
     
-    -c后面是自己GitHub的邮箱
+    -C后面是自己GitHub的邮箱
 2. 将SSH key贴到GitHub上
     
     当前我设置的ssh key放在/Users/mac/.ssh下的id_rsa
@@ -46,4 +46,17 @@ Git 是由 Linux 之父 Linus Tovalds 为了更好地管理linux内核开发而�
 
     ![picture](/Users/mac/Desktop/学科/跨平台脚本开发/电子生态系统/图片/ter.png)
 
-    命令：
+    *将需要上传或修改的文件放在本地仓库上*
+
+    ![picture](/Users/mac/Desktop/学科/跨平台脚本开发/电子生态系统/图片/po.png)
+
+8. 结果展示
+
+    ![picture](/Users/mac/Desktop/学科/跨平台脚本开发/电子生态系统/图片/show.png)
+
+>参考文献
+
+https://blog.csdn.net/qq_37747262/article/details/81750417 Mac+VS Code+Git+Github
+
+https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000 Git教程
+    
